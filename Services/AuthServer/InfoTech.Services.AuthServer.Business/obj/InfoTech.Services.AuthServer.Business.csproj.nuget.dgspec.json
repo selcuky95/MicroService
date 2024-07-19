@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Business\\InfoTech.Services.AuthServer.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Business\\InfoTech.Services.AuthServer.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Business\\InfoTech.Services.AuthServer.Business.csproj",
+        "projectName": "InfoTech.Services.AuthServer.Business",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Business\\InfoTech.Services.AuthServer.Business.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Data\\InfoTech.Services.AuthServer.Data.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Data\\InfoTech.Services.AuthServer.Data.csproj"
+              },
+              "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\InfoTech.Services.AuthServer.Shared.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\InfoTech.Services.AuthServer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Data\\InfoTech.Services.AuthServer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Data\\InfoTech.Services.AuthServer.Data.csproj",
+        "projectName": "InfoTech.Services.AuthServer.Data",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Data\\InfoTech.Services.AuthServer.Data.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Entity\\InfoTech.Services.AuthServer.Entity.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Entity\\InfoTech.Services.AuthServer.Entity.csproj"
+              },
+              "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\InfoTech.Services.AuthServer.Shared.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\InfoTech.Services.AuthServer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Entity\\InfoTech.Services.AuthServer.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Entity\\InfoTech.Services.AuthServer.Entity.csproj",
+        "projectName": "InfoTech.Services.AuthServer.Entity",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Entity\\InfoTech.Services.AuthServer.Entity.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\InfoTech.Services.AuthServer.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\InfoTech.Services.AuthServer.Shared.csproj",
+        "projectName": "InfoTech.Services.AuthServer.Shared",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\InfoTech.Services.AuthServer.Shared.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Yazılım\\Github Projeler\\MicroService\\Services\\AuthServer\\InfoTech.Services.AuthServer.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
