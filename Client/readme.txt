@@ -1,1 +1,0 @@
-This text file includes Client api projects
